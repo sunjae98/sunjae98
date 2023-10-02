@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
   <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
   <br/>
-  <br/>
   <img alt="StyledComponents" src ="https://img.shields.io/badge/StyledComponents-DB7093.svg?&style=for-the-badge&logo=StyledComponents&logoColor=white"/>
    <img alt="Tailwind" src ="https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=for-the-badge&logo=Tailwind Css&logoColor=white"/>
   <img alt="SASS" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
